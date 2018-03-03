@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 2, 2018
 
 ### Student Name:  
-(First and Last Name)
+Catherine Finn
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment was to test and use loops, functions, and conditional statements in a program
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://clf16.github.io/lesson5_javascript2/. 
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learn what an else if statement and what it does in a program. 
+2. I learn how to distinguish buttons for clear and what a one clear button does. 
+3. I learned how to distinguish the status of what if when the user inputs their response. 
 
